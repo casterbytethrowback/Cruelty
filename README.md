@@ -1,4 +1,7 @@
 # Cruelty
+# These are works from 2022, uploaded specifically for the book Networks Through the Eyes of the Hacker.
+# These repositories have nothing to do with Caster's current oeuvre.
+
 Gratuitous ARP Injector
 
 ```
